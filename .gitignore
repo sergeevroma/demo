@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+/.idea/
+/config/
+/Lib/
+/Scripts/
+/magnit.json/
+/perekrestok.json/
+/pyaterochka.json/
+/pyvenv.cfg/
